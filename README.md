@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/beatrizbenz/github-readme-stats">
     <img
       height="156" 
-      src="https://github-readme-stats.vercel.app/api?username=beatrizbenz&count_private=true&show_icons=true&custom_title=Alex's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=beatrizbenz&count_private=true&show_icons=true&custom_title=Benz%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
     />
     </a>
   <a href="https://github.com/beatrizbenz/github-readme-stats">
