@@ -34,12 +34,9 @@ Here are some ideas to get you started:
 
 *** 
 
-* From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
+* From [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo) Living In [Washington](https://en.wikipedia.org/wiki/Washington_(state))
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
-* It Works [Tata Consultancy Services](https://www.tcs.com/)
 
-
- 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://br.linkedin.com/in/beatriz-benz)](https://br.linkedin.com/in/beatriz-benz) 
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beatriz_benz/)](https://www.instagram.com/beatriz_benz/) 
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/BiaBenz/)](https://www.facebook.com/BiaBenz/)
