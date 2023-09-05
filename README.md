@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 *** 
 
-* From [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo) Living In [Washington](https://en.wikipedia.org/wiki/Washington_(state))
+* From [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo) Living In [Alabama]([https://en.wikipedia.org/wiki/Washington_(state)](https://en.wikipedia.org/wiki/Alabama))
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://br.linkedin.com/in/beatriz-benz)](https://br.linkedin.com/in/beatriz-benz) 
