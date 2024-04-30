@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ***
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 <p>
 
-*** 
+*** -->
 
 * From [São Paulo](https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo) Living In [Alabama](https://en.wikipedia.org/wiki/Alabama)
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
