@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-My work is centered on **AI systems, software engineering, platforms, quality and governance**. At Bradesco, I lead Platform Engineering initiatives that support large-scale technology transformation, connecting engineering excellence, responsible innovation and business value.
+My work is centered on **AI systems, software engineering, platforms, quality and governance**. At Bradesco Bank, I lead Platform Engineering initiatives that support large-scale technology transformation, connecting engineering excellence, responsible innovation and business value.
 
 I’m especially interested in applying generative AI thoughtfully, building strong engineering foundations, and creating the quality practices and governance that help technology scale reliably. Cloud is part of my technical toolkit—not the definition of my professional focus.
 
