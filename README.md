@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=230&section=header&text=Beatriz%20Benz&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%7C%20Platform%20Engineering%20%7C%20Cloud&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Beatriz Benz — AI Systems, Platform Engineering and Cloud" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=230&section=header&text=Beatriz%20Benz&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Systems%20%7C%20Software%20Engineering%20%7C%20Platform%20Engineering&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Beatriz Benz — AI Systems, Software Engineering and Platform Engineering" />
 
-### Building **AI systems** and platforms that deliver engineering excellence
+### Advancing **AI**, **software engineering** and **platforms** with quality and governance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-benz/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz_benz@hotmail.com)
@@ -16,15 +16,15 @@
 
 ## 👋 About me
 
-I’m a **Cloud Platform Engineer** working at the intersection of **Platform Engineering, AI systems and software quality**. At Bradesco, I lead platform initiatives that support large-scale technology transformation, with a focus on engineering excellence, innovation and governance.
+My work is centered on **AI systems, software engineering, platforms, quality and governance**. At Bradesco, I lead Platform Engineering initiatives that support large-scale technology transformation, connecting engineering excellence, responsible innovation and business value.
 
-I enjoy turning complex technology challenges into reliable platforms and practical outcomes for teams and the business.
+I’m especially interested in applying generative AI thoughtfully, building strong engineering foundations, and creating the quality practices and governance that help technology scale reliably. Cloud is part of my technical toolkit—not the definition of my professional focus.
 
-📍 **Based in São Paulo, Brazil** · 🤝 **Open to collaboration** in Platform Engineering, AI Systems and Tech Leadership
+📍 **São Paulo, Brazil** · 🤝 **Open to collaboration** in AI, Software Engineering, Platform Engineering, Quality and Governance
 
 ---
 
-## 🧭 My areas of focus
+## 🧭 Where I create impact
 
 <div align="center">
 <table>
@@ -32,24 +32,24 @@ I enjoy turning complex technology challenges into reliable platforms and practi
     <td align="center" width="50%">
       <h3>🤖 AI & Generative Systems</h3>
       LLMs · Generative AI · Prompt engineering<br />
-      AI-enabled platforms · AI transformation
+      AI transformation · Governance & ethics
     </td>
     <td align="center" width="50%">
-      <h3>☁️ Platform & Cloud</h3>
-      Kubernetes · Terraform · AWS · Azure<br />
-      DevOps · CI/CD · Cloud architecture
+      <h3>💻 Software Engineering</h3>
+      Engineering excellence · Automated testing<br />
+      Code quality · Metrics-driven development
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🛡️ Software Quality</h3>
-      Automated testing · Code quality<br />
-      Metrics-driven development
+      <h3>🧩 Platforms & Engineering</h3>
+      Platform Engineering · DevOps · CI/CD<br />
+      Distributed systems · Scalable foundations
     </td>
     <td align="center" width="50%">
-      <h3>🧩 Architecture & Leadership</h3>
-      Microservices · Distributed systems<br />
-      Team building · Mentoring · Strategy
+      <h3>🛡️ Quality, Governance & Leadership</h3>
+      Responsible innovation · Technical strategy<br />
+      Team building · Mentoring · Business alignment
     </td>
   </tr>
 </table>
@@ -57,18 +57,18 @@ I enjoy turning complex technology challenges into reliable platforms and practi
 
 ---
 
-## 🛠️ Technology toolkit
+## 🛠️ Tools & technologies
 
 <div align="center">
 
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=probot&logoColor=white)
+![Software Quality](https://img.shields.io/badge/Software%20Quality-0F766E?style=for-the-badge&logo=sonarqube&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=probot&logoColor=white)
-![Software Quality](https://img.shields.io/badge/Software%20Quality-0F766E?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 </div>
 
@@ -91,7 +91,7 @@ I enjoy turning complex technology challenges into reliable platforms and practi
 
 ### Let’s build what’s next — thoughtfully, reliably and at scale.
 
-**Platform Engineering** · **AI Systems** · **Software Quality** · **Tech Leadership**
+**AI Systems** · **Software Engineering** · **Platforms** · **Quality & Governance**
 
 <sub>São Paulo, Brazil · <a href="https://www.linkedin.com/in/beatriz-benz/">Connect with me on LinkedIn</a></sub>
 
