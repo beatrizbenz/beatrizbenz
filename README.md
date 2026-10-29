@@ -26,34 +26,21 @@ I’m especially interested in applying generative AI thoughtfully, building str
 
 ## 🧭 Where I create impact
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤖 AI & Generative Systems</h3>
-      LLMs · Generative AI · Prompt engineering<br />
-      AI transformation · Governance & ethics
-    </td>
-    <td align="center" width="50%">
-      <h3>💻 Software Engineering</h3>
-      Engineering excellence · Automated testing<br />
-      Code quality · Metrics-driven development
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧩 Platforms & Engineering</h3>
-      Platform Engineering · DevOps · CI/CD<br />
-      Distributed systems · Scalable foundations
-    </td>
-    <td align="center" width="50%">
-      <h3>🛡️ Quality, Governance & Leadership</h3>
-      Responsible innovation · Technical strategy<br />
-      Team building · Mentoring · Business alignment
-    </td>
-  </tr>
-</table>
-</div>
+### 🤖 AI & Generative Systems
+
+LLMs · Generative AI · Prompt engineering · AI transformation · AI governance
+
+### 💻 Software Engineering & Quality
+
+Engineering excellence · Automated testing · Code quality · Metrics-driven development
+
+### 🧩 Platforms & Engineering
+
+Platform Engineering · DevOps · CI/CD · Distributed systems · Scalable foundations
+
+### 🛡️ Governance & Leadership
+
+Responsible innovation · Technical strategy · Team building · Mentoring · Business alignment
 
 ---
 
@@ -61,14 +48,15 @@ I’m especially interested in applying generative AI thoughtfully, building str
 
 <div align="center">
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=probot&logoColor=white)
-![Software Quality](https://img.shields.io/badge/Software%20Quality-0F766E?style=for-the-badge&logo=sonarqube&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=probot&logoColor=white)
+![Software Quality](https://img.shields.io/badge/Software_Quality-0F766E?style=flat-square&logo=sonarqube&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
