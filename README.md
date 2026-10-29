@@ -62,18 +62,20 @@ Responsible innovation · Technical strategy · Team building · Mentoring · Bu
 
 ---
 
-## 📊 GitHub at a glance
+## 🌐 Explore my work
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=beatrizbenz&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Beatriz's GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizbenz&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages on Beatriz's public repositories" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beatrizbenz&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+  <a href="https://github.com/beatrizbenz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+  <a href="https://github.com/beatrizbenz">
+    <img src="https://img.shields.io/badge/View%20my%20GitHub%20profile-312E81?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub profile" />
+  </a>
 </div>
 
 ---
+
+<div align="center">
 
 <div align="center">
 
