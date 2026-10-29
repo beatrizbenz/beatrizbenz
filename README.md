@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I’m a **Cloud Platform Engineer** working at the intersection of **Platform Engineering, AI systems and software quality**. At Bradesco, I lead platform initiatives that support large-scale technology transformation, with a focus on engineering excellence, innovation and governance.
+I’m a **Softare Engineer** working at the intersection of **Platform Engineering, AI systems and software quality**. At Bradesco, I lead platform initiatives that support large-scale technology transformation, with a focus on engineering excellence, innovation and governance.
 
 I enjoy turning complex technology challenges into reliable platforms and practical outcomes for teams and the business.
 
